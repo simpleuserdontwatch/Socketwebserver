@@ -1,0 +1,5 @@
+setup.py
+Socket_webserver.egg-info/PKG-INFO
+Socket_webserver.egg-info/SOURCES.txt
+Socket_webserver.egg-info/dependency_links.txt
+Socket_webserver.egg-info/top_level.txt
